@@ -1,8 +1,8 @@
-# OCR Technology-Centric Resources 
+# OCR-Centric Resources 
 
 
 
-Here, we are concentrating on a series of research papers relatedd to OCR.   
+Here, we are concentrating on a series of research papers related to OCR-centric technologies.   
 
 
 Table of Contents
