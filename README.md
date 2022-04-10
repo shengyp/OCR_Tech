@@ -44,7 +44,7 @@ Table of Contents
 4. **飞浆PaddleOCR**.  [[Project]](https://github.com/PaddlePaddle/PaddleOCR)
 
 
-5. **微信群信息统计自动机器人**. [[Project]](https://github.com/KW-Fudan/AntigenResultStatistics) | [[Report]](https://mp.weixin.qq.com/s/mxqzbqaoH2UMnn5GV1NF3g)
+5. **微信群信息统计自动机器人**, 知识工厂出品. [[Project]](https://github.com/KW-Fudan/AntigenResultStatistics) | [[Report]](https://mp.weixin.qq.com/s/mxqzbqaoH2UMnn5GV1NF3g)
 
 
 
