@@ -12,7 +12,7 @@ Table of Contents
   * [Survey](#Survey)
   * [Tools](#Tools)
   * [Projects](#Projects)  
-  * [Related papers](#Related_papers)
+  * [Paper with code](#Paper_with_code)
 
 
 
@@ -48,7 +48,7 @@ Table of Contents
 
 
 
-## Related_papers
+## Paper_with_code
 1. **Scene Text Recognition**, 71 papers with code. [[Papers]](https://paperswithcode.com/task/scene-text-recognition)
 
 
