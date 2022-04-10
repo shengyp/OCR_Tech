@@ -44,6 +44,9 @@ Table of Contents
 4. **飞浆PaddleOCR**.  [[Project]](https://github.com/PaddlePaddle/PaddleOCR)
 
 
+5. **微信群信息统计自动机器人**. [[Project]](https://github.com/KW-Fudan/AntigenResultStatistics) | [[Report]](https://mp.weixin.qq.com/s/mxqzbqaoH2UMnn5GV1NF3g)
+
+
 
 ## Related_papers
 1. **Scene Text Recognition**, 71 papers with code. [[Papers]](https://paperswithcode.com/task/scene-text-recognition)
