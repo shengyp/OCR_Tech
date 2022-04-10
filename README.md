@@ -2,7 +2,7 @@
 
 
 
-Here, we are concentrating on a series of research papers related to OCR-centric technologies.   
+Here, we are concentrating on a series of research resources related to OCR-centric technologies.   
 
 
 Table of Contents
