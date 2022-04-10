@@ -8,9 +8,8 @@ Here, we are concentrating on a series of research papers relatedd to multilingu
 Table of Contents
 =================
 
-
-  * [Survey](#Survey)
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
+  * [Survey](#Survey)
   * [Tools](#Tools)
   * [Projects](#Projects)  
   * [Related papers](#Related_papers)
