@@ -10,7 +10,7 @@ Table of Contents
 
 
   * [Survey](#Survey)
-  * [Datasets / Shared Tasks](#Datasets_Shared_Tasks)
+<!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
   * [Tools](#Tools)
   * [Projects](#Projects)  
   * [Related papers](#Related_papers)
