@@ -2,7 +2,7 @@
 
 
 
-Here, we are concentrating on a series of research papers relatedd to multilingual knowledge engineering.   
+Here, we are concentrating on a series of research papers relatedd to OCR.   
 
 
 Table of Contents
@@ -17,7 +17,9 @@ Table of Contents
 
 
 ## Survey
-1. Sebastian Ruder, Ivan Vulić, Anders Søgaard. **A Survey Of Cross-lingual Word Embedding Models**. Journal of Artificial Intelligence Research, 2019.  [[Paper]](https://arxiv.org/pdf/1706.04902.pdf)
+1. **自然场景文本检测识别技术综述**, 知乎. [[Papers]](https://zhuanlan.zhihu.com/p/38655369)
+
+2. **文字识别方法整理（2015\~2019）**, 知乎. [[Papers]](https://zhuanlan.zhihu.com/p/65707543)
 
 
 
@@ -39,11 +41,12 @@ Table of Contents
 3. **Keras作者推荐的OCR项目Keras-OCR**. 2019.  [[Project]](https://github.com/faustomorales/keras-ocr)
 
 
+4. **飞浆PaddleOCR**.  [[Project]](https://github.com/PaddlePaddle/PaddleOCR)
+
 
 
 ## Related_papers
-1. Gerard de Melo, Stefan Siersdorfer. **Multilingual Text Classification Using Ontologies**. ECIR 2007. [[Paper]](http://gerard.demelo.org/papers/demelo-mltc-ecir2007.pdf)
-
+1. **Scene Text Recognition**, 71 papers with code. [[Papers]](https://paperswithcode.com/task/scene-text-recognition)
 
 
 
