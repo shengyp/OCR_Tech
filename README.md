@@ -41,7 +41,7 @@ Table of Contents
 3. **Keras作者推荐的OCR项目Keras-OCR**. 2019.  [[Project]](https://github.com/faustomorales/keras-ocr)
 
 
-4. **飞浆PaddleOCR**.  [[Project]](https://github.com/PaddlePaddle/PaddleOCR)
+4. **飞浆PaddleOCR**.  [[Project]](https://github.com/PaddlePaddle/PaddleOCR) | **PP-OCR**.  [[Report]](https://mp.weixin.qq.com/s/PLUSybv4Q8QAZZLG_kjSSg) 
 
 
 5. **微信群信息统计自动机器人**, 知识工厂出品. [[Project]](https://github.com/KW-Fudan/AntigenResultStatistics) | [[Report]](https://mp.weixin.qq.com/s/mxqzbqaoH2UMnn5GV1NF3g)
